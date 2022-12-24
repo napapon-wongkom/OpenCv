@@ -1,4 +1,4 @@
-# This code demonstrate how to show location of hand landmark
+
 import cv2
 import mediapipe as mp
 
