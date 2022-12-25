@@ -1,7 +1,7 @@
 import cv2
 import mediapipe as mp
 
-count_fing = 0
+
 Hand = "None"
 Finger1 = "Thumb:Fold"
 Finger2 = "Index Finger:Fold"
